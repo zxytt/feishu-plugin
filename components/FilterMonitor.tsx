@@ -256,7 +256,7 @@ export default function FilterMonitor() {
           </li>
           <li className="flex items-start">
             <span className="mr-2">•</span>
-            <span>点击"刷新"按钮可手动获取当前筛选条件</span>
+            <span>点击刷新按钮可手动获取当前筛选条件</span>
           </li>
           <li className="flex items-start">
             <span className="mr-2">•</span>
