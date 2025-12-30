@@ -1,0 +1,15 @@
+{
+  "app_id": "cli_a9c7165ff4b89bdd",
+  "app_name": "文档筛选条件获取插件",
+  "app_version": "1.0.0",
+  "app_type": "web",
+  "description": "获取飞书文档的筛选条件",
+  "icon": "https://your-icon-url.com/icon.png",
+  "scopes": [
+    "bitable:app",
+    "bitable:app:readonly",
+    "bitable:app:readwrite"
+  ],
+  "api_version": "1.0.0"
+}
+
